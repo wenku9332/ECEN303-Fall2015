@@ -1,4 +1,4 @@
-# Enrolled Students, Teaching Assistant, and Faculty Member
+# Enrolled Students
 
 
 ## Students

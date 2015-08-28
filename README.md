@@ -36,5 +36,5 @@ Estimate the cumulative distribution function from a collection of independent o
 Study the law of large numbers and the central limit theorem, and illustrate how these two theorems can be employed to model random phenomena.
 8. Explain the concept of confidence intervals associated with sample means.
 Calculate confidence intervals and use this statistical tool to interpret engineering data.
-9. Engage the student in active learning through problem solving and real-world examples.
-Encourage the student to become an independent learner and increase his/her awareness of available resources.
+9. Engage the student in active learning through programming challenges, problem solving, and real-world examples.
+Encourage the student to become an independent learner and increase their awareness of available resources.
