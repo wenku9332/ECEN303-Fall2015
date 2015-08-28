@@ -6,7 +6,7 @@ There is no required book for this course. Instead, I use a concise set of notes
 
 https://github.com/CourseReps/ECEN303-Fall2015
 
-The PDF file is named "UndergraduateProbabilityI.pdf”. You will be expected to carefully read and understand approximately four/six pages of material per lecture. To get the most out of the course, you should complete the reading assignments before the corresponding lecture. Also, to help you with the discipline that this requires, you will be quizzed on the material from time to time. One effective way to attend lecture is to come with printed/electronic notes and to supplement these notes with the material presented in class.
+The PDF file is named "UndergraduateProbabilityI.pdf". You will be expected to carefully read and understand approximately four/six pages of material per lecture. To get the most out of the course, you should complete the reading assignments before the corresponding lecture. Also, to help you with the discipline that this requires, you will be quizzed on the material from time to time. One effective way to attend lecture is to come with printed/electronic notes and to supplement these notes with the material presented in class.
 
 Purchasing a textbook for the class is optional. The notes are somewhat complete, and they contain most of the material you will be responsible for throughout the semester. Still, having access to good resources is an invaluable asset. Conveniently, there are many excellent textbooks on the subject. Some of these textbooks are listed on the website and in your syllabus. I have requested that several books be put on reserve at the library under ECEN 303 - Random Signals and Systems.
 
