@@ -29,7 +29,7 @@
 * Benjamin Johnston, benj626
 * Madeline Kinnaird, mrk13
 * Benjamin Ledesma, ledesma.benjamin
-* Jordan Lewallen, jlewallen18
+* Jordan Lewallen, jlewallen18, [jlewallen18](https://github.com/jlewallen18/)
 * Justin Lewis, justin94lewis
 * Chu Liang, cml1012
 * Trevor Malota, trevormalota
