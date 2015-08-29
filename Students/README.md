@@ -58,7 +58,7 @@
 * Fletcher Watts, augustus1994
 * Craig Wolf, dallascowboys10
 * Jesse Yancy, jpy234
-* Seungwon Yoon, ysw0927
+* Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
 
 
 ## Teaching Assistant
