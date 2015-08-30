@@ -1,0 +1,255 @@
+\documentclass{article}
+
+%%  Dimensions and URL
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+%%  Definitions
+\renewcommand{\baselinestretch}{1.1}
+\pagestyle{empty}
+
+
+\begin{document}
+\begin{center}
+{\LARGE \sc Random Signals and Systems \\[5mm]}
+\end{center}
+
+\begin{center}
+\begin{tabular}{llll}
+\textbf{ECEN:} & 303-502 & \textbf{CRN:} & 13453 \tabularnewline[1mm]
+\textbf{Lecture:} & TR 9:35 am -- 10:50 am & {Location:} & ETB 1020\tabularnewline[1mm]
+\textbf{Recitation:} & W 8:00 am -- 9:00 am & {Location:} & ETB 1020 \tabularnewline[1mm]
+\textbf{Instructor:} & Dr.~Jean-Francois Chamberland & \multicolumn{2}{l}{chmbrlnd@tamu.edu} \tabularnewline[1mm]
+& WEB 301RA & 979.845.6204 \tabularnewline[1mm]
+\textbf{Teaching Assistant:} & TBA & & \tabularnewline[1mm]
+\textbf{Prerequisites:} & {MATH 308, junior or senior classification} \tabularnewline[1mm]
+\textbf{Required Notes:} & {Undergraduate Probability I} \tabularnewline[1mm]
+\end{tabular}
+\end{center}
+
+\paragraph{Course Description:}
+This course will introduce the student to the fundamental concepts of probability theory applied to engineering problems.
+Its goal is to develop the ability to construct and exploit probabilistic models in a manner that combines intuition and mathematical precision.
+The proposed treatment of probability includes elementary set operations, sample spaces and probability laws, conditional probability, independence, and notions of combinatorics.
+A discussion of discrete and continuous random variables, common distributions, functions, and expectations forms an important part of this course.
+Transform methods, limit theorems, modes of convergence, and bounding techniques are also covered.
+In particular, special consideration will be given to the law of large numbers and the central limit theorem.
+Examples from engineering, science, and statistics will be provided.
+
+
+% Required Syllabus Section
+% Learning Outcomes (required for undergraduate courses only)
+%
+\paragraph{Learning Objectives}
+\begin{enumerate}
+\item
+Review basic notions of set theory and simple operations such as unions, intersections, differences and De Morgan's laws.
+Discuss Cartesian products and simple combinatorics.
+Go over the counting principle, permutations, combinations and partitions.
+\item
+Introduce sample spaces, probability laws and random variables.
+Distinguish between events and outcomes, and illustrate how to compute their probabilities.
+\item
+Present the concepts of independence and conditional probabilities.
+Study the total probability theorem and Bayes' rule.
+Provide examples of these important results applied to tangible engineering problems.
+\item
+Understand mathematical descriptions of random variables including probability mass functions, cumulative distribution functions and probability density functions. 
+Become familiar with commonly encountered random variables, in particular the Gaussian random variable.
+\item
+Introduce the notions of expectations and moments, including means and variances.
+Calculate moments of common random variables.
+Characterize the distributions of functions of random variables.
+\item
+Explore the properties of multiple random variables using joint probability mass functions and joint probability density functions.
+Understand correlation, covariance and the correlation coefficient.
+Discuss how these quantities relate to the independence of random variables.
+\item
+Gain the ability to compute the sample mean and standard deviation of a random variable from a series of independent observations.
+Estimate the cumulative distribution function from a collection of independent observations.
+Study the law of large numbers and the central limit theorem, and illustrate how these two theorems can be employed to model random phenomena.
+\item
+Explain the concept of confidence intervals associated with sample means.
+Calculate confidence intervals and use this statistical tool to interpret engineering data.
+\item
+Engage the student in active learning through programming challenges, problem solving, and real-world examples.
+Encourage the student to become an independent learner and increase their awareness of available resources.
+\end{enumerate}
+
+
+\paragraph*{Exam Schedule}
+\begin{center}
+\begin{tabular}{lll}
+Test 1 & October 13, 2015 & 9:35 am -- 10:50 am \tabularnewline
+Test 2 & November 10, 2015 & 9:35 am -- 10:50 am \tabularnewline
+Test 3 & December 11, 2015 & 12:30 pm -- 2:30 pm
+\end{tabular}
+\end{center}
+
+
+\paragraph*{Course Topics}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Unit & Topics & Hours & Lecture Number & Reading \tabularnewline
+\hline
+1 & Introduction and Mathematical Review & 1.5 & 1 & Ch.~1 \tabularnewline
+\hline
+2 & Combinatorics and Intuitive Probability & 3 & 2--3 & Ch.~2 \tabularnewline
+\hline
+3 & Basic Concepts of Probability & 3 & 4--5 & Ch.~3 \tabularnewline
+\hline
+4 & Conditional Probability & 4.5 & 6--8 & Ch.~4 \tabularnewline
+\hline
+5 & Discrete Random Variables & 3 & 9--10 & Ch.~5 \tabularnewline
+\hline
+6 & Meeting Expectations & 4.5 & 11--13 & Ch.~6 \tabularnewline
+\hline
+7 & Multiple Discrete Random Variables & 3 & 14--15 & Ch.~7 \tabularnewline
+\hline
+8 & Continuous Random Variables & 4.5 & 16--18 & Ch.~8 \tabularnewline
+\hline
+9 & Functions and Derived Distributions & 3 & 19--20 & Ch.~9 \tabularnewline
+\hline
+10 & Expectations and Bounds & 4.5 & 21--23 & Ch.~10 \tabularnewline
+\hline
+11 & Multiple Continuous Random Variables & 3 & 24--25 & Ch.~11 \tabularnewline
+\hline
+12 & Convergence and Empirical Distributions & 3 & 26--27 & Ch.~12 \tabularnewline
+\hline
+& Real-World Applications & 1.5 & 28 & \tabularnewline
+\hline
+ & \textbf{Total Hours} & 42 & 28 & \tabularnewline
+\hline
+\end{tabular}
+\par\end{center}
+
+
+\paragraph{Recommended Texts:}
+There exist several books that offer an excellent introduction to probability.
+Several such books are available through the \href{http://library.tamu.edu}{library}.
+\begin{center}
+\begin{tabular}{lll}
+FCP & \textbf{A First Course in Probability} & S. Ross \tabularnewline[1mm]
+IP & \textbf{Introduction to Probability} & D. P. Bertsekas and J. N. Tsitsiklis \tabularnewline[1mm]
+PRP & \textbf{Probability and Random Processes} & S. L. Miller and D. G. Childers \tabularnewline[1mm]
+PSRP & \href{http://www.probabilitycourse.com/}{Probability, Statistics, and Random Processes} & H. Pishro-Nik\tabularnewline[1mm]
+PSP & \textbf{Probability and Stochastic Processes%: A Friendly Introduction for Electrical and Computer Engineers
+} & R. D. Yates and D. J. Goodman
+\end{tabular}
+\end{center}
+
+
+\paragraph{Philosophy of Grading:}
+During the semester, we try to be available to students and to help them understand all of the material covered in class.
+We also provide early feedback to people who may be in trouble, or may not get the final grade they desire.
+This gives them an opportunity to learn more and to prepare better for exams.
+We realize that classes can be demanding and that students come with different backgrounds.
+We try to minimize the impact of previous experience by focusing on basic material at the beginning of each semester.
+We offer office hours and optional review sessions to students.
+These strategies are intended to give all students an equal chance at doing well.
+Still, final grades are determined numerically based solely on individual standing.
+This seems to be the only fair procedure to assign grades.
+Alternate letter assignments with special considerations lead to favoritism.
+Thus, final grades only reflect how well students did on their assignments, quizzes, and exams.
+Unfortunately, they do not always reflect the amount of work and time invested in the class.
+This is the nature of learning.
+Ultimately grades are assigned fairly, if not pleasantly.
+They are therefore very unlikely to change, unless we made a mistake in grading exams or adding numbers.
+
+
+% Required Syllabus Section
+% Grading policies
+%
+\paragraph{Grade Policies:}
+The major grade components for \emph{Random Signals \& Systems} and their respective weights are listed below.
+Assignment and test grades will only be discussed after class or during office hours.
+We reserve the right to ask students to present their concerns or arguments in writing.
+Failure to meet a deadline may result in a grade of zero for the corresponding work.
+\begin{center}
+\begin{tabular}{lp{15mm}lp{15mm}}
+\multicolumn{4}{c}{\textbf{Grading Rule}} \\
+Assignments & 10 \% & Exam 1 & 20 \% \\
+Challenges \& Quizzes & 10 \% & Exam 2 & 20 \% \\
+Participation & 10 \% & Exam 3 & 30 \%
+\end{tabular}
+\end{center}
+If your overall grade falls within one of the prescribed ranges, then you are guaranteed to receive at least the letter grade indicated.
+\begin{center}
+\begin{tabular}{lp{25mm}lp{25mm}lp{25mm}}
+\multicolumn{6}{c}{\textbf{Grading Scale}} \\
+A: & 90 -- 100 \% & C: & 70 -- 79 \% & F: & 0 -- 59 \% \\
+B: & 80 -- 89 \% & D: & 60 -- 69 \%
+\end{tabular}
+\end{center}
+The Academic Rules website at Texas A\&M University, and its section on Grading in particular, discusses possible grades and their respective meaning:
+\begin{quote}
+\url{http://student-rules.tamu.edu/rule10}.
+\end{quote}
+
+
+% Required Syllabus Section
+% Attendance and make-up policies
+%
+\paragraph{Attendance and Make-Up Policies:}
+If an absence is excused, the instructor will either provide the student an opportunity to make up any quiz, exam or other work that contributes to the final grade or provide a satisfactory alternative by a date agreed upon by the student and instructor.
+If the instructor has a regularly scheduled make up exam, students are expected to attend unless they have a university approved excuse.
+The make-up work must be completed in a timeframe not to exceed 30 calendar days from the last day of the initial absence. 
+The student is responsible for providing satisfactory evidence to the instructor to substantiate the reason for the absence.
+\begin{quote}
+\url{http://student-rules.tamu.edu/rule07}.
+\end{quote}
+Failure to notify and/or document properly may result in an unexcused absence.
+Falsification of documentation is a violation of the Honor Code. 
+In cases where prior notification is not feasible (e.g., accident or emergency) the student must provide notification by the end of the second working day after the absence, including an explanation of why notice could not be sent prior to the class. 
+
+
+% http://registrar.tamu.edu/Current/ClassrmConcerns.aspx
+%
+\paragraph{Classroom Communication Concerns:}
+A student desiring to report a classroom communication concern should initiate the process within the first 12 class days of the semester, whenever possible, in order to identify an alternative course, if necessary.
+The last date a student may initiate the classroom communication concerns procedure is the same as the Q-drop deadline.
+For more information, consult the \href{http://registrar.tamu.edu/}{Office of the Registrar} and related \href{http://registrar.tamu.edu/Registrar/media/REGI_Forms/UGClsrmCommConcern.pdf}{form}.
+
+
+\paragraph{Miscellaneous:}
+Student dress, behavior, and speech are expected to be courteous and professional.
+Any deviation from this deemed inappropriate by the professor or any disruptive behavior will result in immediate ejection from the class period with swift and appropriate disciplinary measures.
+
+
+% Required Syllabus Section
+% Academic Integrity Statement and Policy
+% 
+\paragraph{Academic Integrity:}
+\emph{``An Aggie does not lie, cheat or steal, or tolerate those who do.''}
+\begin{quote}
+\url{http://aggiehonor.tamu.edu}.
+\end{quote}
+It is the Mission of the Aggie Honor System Office to serve as a centralized organization established to educate about the Aggie Code of Honor, respond to reported academic violations of the Aggie Code of Honor, and facilitate remediation efforts for students found responsible for violations of the Aggie Code of Honor.
+
+
+% Required Syllabus Section
+% Americans with Disabilities Act (ADA) Policy Statement
+%
+\paragraph{Americans with Disabilities Act (ADA) Policy Statement:}
+The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.
+Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities.
+If you believe you have a disability requiring an accommodation, please contact Disability Services, in Cain Hall, Room B118, or call 845-1637.
+For additional information visit
+\begin{quote}
+\url{http://disability.tamu.edu}.
+\end{quote}
+
+
+% Required Syllabus Section
+% Helpful links for syllabus construction
+% 
+\paragraph{Helpful Links:}
+\href{http://registrar.tamu.edu/General/Calendar.aspx}{Academic Calendar},
+\href{http://registrar.tamu.edu/General/FinalSchedule.aspx}{Final Exam Schedule},
+\href{http://student-rules.tamu.edu/}{Student Rules},
+\href{http://dof.tamu.edu/content/religious-observance}{Religious Observances}.
+
+
+\end{document}
+
