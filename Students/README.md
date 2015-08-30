@@ -9,7 +9,7 @@
 * Liliana Balboa, lbalboa100
 * Bailey Barksdale, bailey13
 * Alexander Barrett, abarrett93
-* Kaitlin Basham, klb3736
+* Kaitlin Basham, klb3736, [klb3736](https://github.com/klb3736/)
 * Philip Bowie, bowiepj
 * Kevin Bradshaw, kevintbradshaw
 * Jui Yen Chua, olochua
