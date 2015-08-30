@@ -16,7 +16,7 @@
 * Phillip Cryer, cryerp
 * Stephanie Demco, steph1995
 * Jose Dominguez, jpdominguez94
-* Andrew Douglass, adoulgas
+* Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Morgan Frakes, mgfrakes13
 * Alexander Garcia, alexgarcia2013
 * Gissel Gardea, gardegi059
