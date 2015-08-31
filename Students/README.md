@@ -17,7 +17,7 @@
 * Stephanie Demco, steph1995
 * Jose Dominguez, jpdominguez94
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
-* Morgan Frakes, mgfrakes13
+* Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
 * Alexander Garcia, alexgarcia2013
 * Gissel Gardea, gardegi059, [ggardea66](https://github.com/ggardea66/)
 * Matthew Grogan, grogan2122
