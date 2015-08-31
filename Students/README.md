@@ -51,7 +51,7 @@
 * Zachary Smadi, smadi94
 * Michael Snowden, mwsnowden56
 * Eloi Tarango, fabian.tarango
-* Weston Torti, tort115
+* Weston Torti, tort115, [westort](https://github.com/westort/)
 * Clarissa Tovias, toviasc
 * Michael Walker, mgwalker95
 * Charles Wallace, chaswallace3 [chaswallace3](https://github.com/chaswallace3/)
