@@ -22,7 +22,7 @@
 * Gissel Gardea, gardegi059
 * Matthew Grogan, grogan2122
 * Steven Hammond, slhammond
-* Brandon Haskovec, bkh575
+* Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
 * Derek Heidtke, derek.heidtke
 * Tyler Henderson, tyler.henderson07
 * Caleb Holley, calebiam
