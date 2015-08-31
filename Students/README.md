@@ -19,7 +19,7 @@
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Morgan Frakes, mgfrakes13
 * Alexander Garcia, alexgarcia2013
-* Gissel Gardea, gardegi059
+* Gissel Gardea, gardegi059, [ggardea66](https://github.com/ggardea66/)
 * Matthew Grogan, grogan2122
 * Steven Hammond, slhammond
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
