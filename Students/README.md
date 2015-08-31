@@ -25,7 +25,7 @@
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
 * Derek Heidtke, derek.heidtke
 * Tyler Henderson, tyler.henderson07
-* Caleb Holley, calebiam
+* Caleb Holley, calebiam, [calebiam](https://github.com/calebiam/)
 * Benjamin Johnston, benj626
 * Madeline Kinnaird, mrk13
 * Benjamin Ledesma, ledesma.benjamin
