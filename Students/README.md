@@ -13,7 +13,7 @@
 * Philip Bowie, bowiepj, [bowiepj](https://github.com/bowiepj/)
 * Kevin Bradshaw, kevintbradshaw
 * Jui Yen Chua, olochua
-* Phillip Cryer, cryerp
+* Phillip Cryer, cryerp, [cryerp](https://github.com/cryerp)
 * Stephanie Demco, steph1995
 * Jose Dominguez, jpdominguez94
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
