@@ -5,7 +5,7 @@
 
 * _Full Name_, _TAMU NetID_, _GitHubID_
 * George Anthony, gka243
-* Allison Badgett, allisonbadgett
+* Allison Badgett, allisonbadgett, [allisonbadgett](https://github.com/allisonbadgett/)
 * Liliana Balboa, lbalboa100
 * Bailey Barksdale, bailey13
 * Alexander Barrett, abarrett93
