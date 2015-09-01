@@ -1,13 +1,13 @@
 #!/bin/bash
 
-templatefolder="~/GitCourseReps/ECEN303-Fall2015/Miscellaneous/Templates/"
-file="challenge1.py"
+templatefolder="GitCourseReps/ECEN303-Fall2015/Miscellaneous/Templates/"
+file="1challenge.py"
 
 # Internal Field Separator
 IFS=:
 
 curdir=$(pwd)
-for dir in ~/GitCourseReps/ECEN303-Summer2015/Students/*
+for dir in ~/GitCourseReps/ECEN303-Fall2015/Students/*
 do
   if ! [[ -e "${dir}" ]]; then
     echo "${dir} does not exist"
@@ -16,10 +16,11 @@ do
     echo "${dir} is not a directgory"
     printf "\n"
   else
-    [[ -d "${dir}" ]] && cd "${dir}" && if ! [[ -f ${file} ]];
+    [[ -d "${dir}" ]] && cd "${dir}" && if [[ -f ${file} ]];
       then
         pwd
-        echo "cp ${templatefolder}${file} ."
+        cp ~/"${templatefolder}${file}" .
+        git add "${file}"
         printf "\n"
       fi
   fi
