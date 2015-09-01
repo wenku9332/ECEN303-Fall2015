@@ -50,7 +50,7 @@
 * Rodney Siders, rodney6359
 * Zachary Smadi, smadi94
 * Michael Snowden, mwsnowden56
-* Eloi Tarango, fabian.tarango
+* Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
 * Weston Torti, tort115, [westort](https://github.com/westort/)
 * Clarissa Tovias, toviasc
 * Michael Walker, mgwalker95
