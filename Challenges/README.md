@@ -12,4 +12,10 @@ Using computers should become part of your tool set in solving engineering probl
 
 Every programming challenge is relatively straightforward and it should be contained in __one__ Python file.
 This file should be labeled `Challenge?.py`, where `?`should be replaced by an appropriate number.
-Pay special attention to uppercase and lowercase letters; the grading scripts are case sensitive.
+Pay special attention to uppercase and lowercase letters; the grading scripts may be case sensitive.
+
+
+## Progression of Challenges
+
+1. [Flipping Coins](./1challenge.md)
+
