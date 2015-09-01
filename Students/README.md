@@ -20,7 +20,7 @@
 * Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
 * Alexander Garcia, alexgarcia2013
 * Gissel Gardea, gardegi059, [ggardea66](https://github.com/ggardea66/)
-* Matthew Grogan, grogan2122
+* Matthew Grogan, grogan2122, [mdgrogan](https://github.com/mdgrogan/)
 * Steven Hammond, slhammond
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
 * Derek Heidtke, derek.heidtke
