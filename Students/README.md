@@ -55,7 +55,7 @@
 * Clarissa Tovias, toviasc
 * Michael Walker, mgwalker95
 * Charles Wallace, chaswallace3 [chaswallace3](https://github.com/chaswallace3/)
-* Fletcher Watts, augustus1994
+* Fletcher Watts, augustus1994 [augustus1994](https://github.com/augustus1994/)
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
