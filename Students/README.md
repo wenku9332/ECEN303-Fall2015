@@ -44,7 +44,7 @@
 * Jacoby Prestwood, jacobye17
 * Christian Rodriguez Fuenmayor, christico
 * Jesus Romo Diaz De Leon, jfernandoromoddl
-* Emily Roth, e-roth123
+* Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/) 
 * Joshua Ruff, joshruff
 * Stephen Sattler, stephensattler
 * Rodney Siders, rodney6359
