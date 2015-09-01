@@ -24,7 +24,7 @@
 * Steven Hammond, slhammond
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
 * Derek Heidtke, derek.heidtke
-* Tyler Henderson, tyler.henderson07
+* Tyler Henderson, tyler.henderson07, [thenderson37](https://github.com/thenderson37)
 * Caleb Holley, calebiam, [calebiam](https://github.com/calebiam/)
 * Benjamin Johnston, benj626
 * Madeline Kinnaird, mrk13
@@ -44,7 +44,7 @@
 * Jacoby Prestwood, jacobye17
 * Christian Rodriguez Fuenmayor, christico
 * Jesus Romo Diaz De Leon, jfernandoromoddl
-* Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/) 
+* Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/)
 * Joshua Ruff, joshruff
 * Stephen Sattler, stephensattler
 * Rodney Siders, rodney6359
@@ -69,4 +69,3 @@
 ## Faculty Member
 
 * Jean-Francois Chamberland, chmbrlnd, [chmbrlnd](https://chmbrlnd.github.io/)
-
