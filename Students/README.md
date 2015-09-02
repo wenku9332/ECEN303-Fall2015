@@ -61,7 +61,11 @@
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234, [jesseyancy23](https://github.com/jesseyancy23)
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
+<<<<<<< HEAD
 * Wenkui Ren, ren0587, [wenku9332](https://github.com/wenku9332/)
+=======
+* Wenkui Ren, ren0587, [wenku9332](https"//gitbub.com/wenku9332)
+>>>>>>> origin/master
 
 
 ## Teaching Assistant
