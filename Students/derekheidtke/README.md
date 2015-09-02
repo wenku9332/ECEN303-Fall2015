@@ -1,3 +1,5 @@
-Name: Derek Heidtke
-GitHubID: derekheidtke
-NetID: derek.heidtke
+# Identity
+
+* Name: Derek Heidtke
+* GitHubID: derekheidtke
+* NetID: derek.heidtke
