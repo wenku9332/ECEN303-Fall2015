@@ -41,7 +41,7 @@
 * Nirmal Patel, nirm13ff05
 * Alejandro Penaloza Rodriguez, alex23
 * Colbie Prestwood, cprestwood2012,cprestwood2012
-* Jacoby Prestwood, jacobye17
+* Jacoby Prestwood, jacobye17 [jacobye17](https://github.com/jacobye17)
 * Christian Rodriguez Fuenmayor, christico
 * Jesus Romo Diaz De Leon, jfernandoromoddl, [FernandoRomo](https://github.com/FernandoRomo)
 * Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/)
