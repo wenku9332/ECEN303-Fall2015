@@ -26,6 +26,6 @@ print EmpiricalDistribution
 * __Create__: Pure Python Project at location `Students/GitHubID/` within local Git repository.
 * __Run__: Code above.
 * __Modify__: Code to produce Bernoulli random variables, each with parameter `p`.
-* __Save__: File `Task1.py`.
+* __Save__: File `3task.py`.
 * __Commit__: File to master repository using PyCharm, Git and GitHub.
 
