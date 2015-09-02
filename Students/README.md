@@ -43,7 +43,7 @@
 * Colbie Prestwood, cprestwood2012,cprestwood2012
 * Jacoby Prestwood, jacobye17
 * Christian Rodriguez Fuenmayor, christico
-* Jesus Romo Diaz De Leon, jfernandoromoddl
+* Jesus Romo Diaz De Leon, jfernandoromoddl[FernandoRomo] (https://github.com/FernandoRomo)
 * Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/)
 * Joshua Ruff, joshruff
 * Stephen Sattler, stephensattler
