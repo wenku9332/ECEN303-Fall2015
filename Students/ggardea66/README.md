@@ -1,5 +1,5 @@
 #Identity 
 
-* Name:Gissel Gardea
-* GitHubID:ggardea66
-* NetID:gardegi059
+* Name: Gissel Gardea
+* GitHubID: ggardea66
+* NetID: gardegi059
