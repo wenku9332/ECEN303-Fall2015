@@ -25,7 +25,7 @@
 * Matthew Grogan, grogan2122, [mdgrogan](https://github.com/mdgrogan/)
 * Steven Hammond, slhammond, [IneedHelp](https://github.com/IneedHelp)
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
-* Derek Heidtke, derek.heidtke
+* Derek Heidtke, derek.heidtke, [derekheidtke](https://github.com/derekheidtke/) 
 * Tyler Henderson, tyler.henderson07, [thenderson37](https://github.com/thenderson37)
 * Caleb Holley, calebiam, [calebiam](https://github.com/calebiam/)
 * Benjamin Johnston, benj626, [benj626](https://github.com/benj626/)
@@ -37,7 +37,7 @@
 * Trevor Malota, TrevorMalota, [trevmalota](https://github.com/trevmalota/)
 * Jonathan Moore, spirituallyinsane
 * Shannon Morrissey, shannon.morrissey, [shmorrissey](https://github.com/shmorrissey)
-* Bijan Nekovei, bnn292
+* Bijan Nekovei, bnn292, [bnn292](https://github.com/bnn292)
 * Katy Nix, katy.nix, [KANix94](https://github.com/KANix94)
 * Eric Niyigaba, ericniyigaba,[ericniyigaba](https://github.com/ericniyigaba)
 * Nirmal Patel, nirm13ff05, [nirm13ff05](https://github.com/nirm13ff05)
@@ -61,6 +61,11 @@
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234, [jesseyancy23](https://github.com/jesseyancy23)
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
+<<<<<<< HEAD
+* Wenkui Ren, ren0587, [wenku9332](https://github.com/wenku9332/)
+=======
+* Wenkui Ren, ren0587, [wenku9332](https"//gitbub.com/wenku9332)
+>>>>>>> origin/master
 
 
 ## Teaching Assistant

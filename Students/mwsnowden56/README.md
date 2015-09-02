@@ -1,5 +1,5 @@
 # Identity
 
-* Name: 
-* GitHubID: 
-* NetID: 
+* Name: Michael Snowden
+* GitHubID: mwsnowden56
+* NetID: mwsnowden56
