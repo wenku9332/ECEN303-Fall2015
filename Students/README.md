@@ -22,7 +22,7 @@
 * Alexander Garcia, alexgarcia2013
 * Gissel Gardea, gardegi059, [ggardea66](https://github.com/ggardea66/)
 * Matthew Grogan, grogan2122, [mdgrogan](https://github.com/mdgrogan/)
-* Steven Hammond, slhammond
+* Steven Hammond, slhammond, [IneedHelp](https://github.com/IneedHelp)
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
 * Derek Heidtke, derek.heidtke
 * Tyler Henderson, tyler.henderson07, [thenderson37](https://github.com/thenderson37)
