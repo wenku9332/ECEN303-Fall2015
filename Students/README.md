@@ -30,7 +30,7 @@
 * Madeline Kinnaird, mrk13
 * Benjamin Ledesma, ledesma.benjamin
 * Jordan Lewallen, jlewallen18, [jlewallen18](https://github.com/jlewallen18/)
-* Justin Lewis, justin94lewis
+* Justin Lewis, justin94lewis, [LewisWithoutClark](https://github.com/LewisWithoutClark)
 * Chu Liang, cml1012, [cml1012](https://github.com/cml1012/)
 * Trevor Malota, trevormalota
 * Jonathan Moore, spirituallyinsane
