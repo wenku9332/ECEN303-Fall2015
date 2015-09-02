@@ -40,11 +40,11 @@
 * Eric Niyigaba, ericniyigaba
 * Nirmal Patel, nirm13ff05
 * Alejandro Penaloza Rodriguez, alex23
-* Colbie Prestwood, cprestwood2012,cprestwood2012
-* Jacoby Prestwood, jacobye17 [jacobye17](https://github.com/jacobye17)
+* Colbie Prestwood, cprestwood2012, [cprestwood2012](https://github.com/cprestwood2012)
+* Jacoby Prestwood, jacobye17, [jacobye17](https://github.com/jacobye17)
 * Christian Rodriguez Fuenmayor, christico
 * Jesus Romo Diaz De Leon, jfernandoromoddl, [FernandoRomo](https://github.com/FernandoRomo)
-* Emily Roth, e-roth123 [e-roth123](https://github.com/e-roth123/)
+* Emily Roth, e-roth123, [e-roth123](https://github.com/e-roth123/)
 * Joshua Ruff, joshruff
 * Stephen Sattler, stephensattler
 * Rodney Siders, rodney6359
@@ -54,8 +54,8 @@
 * Weston Torti, tort115, [westort](https://github.com/westort/)
 * Clarissa Tovias, toviasc
 * Michael Walker, mgwalker95
-* Charles Wallace, chaswallace3 [chaswallace3](https://github.com/chaswallace3/)
-* Fletcher Watts, augustus1994 [augustus1994](https://github.com/augustus1994/)
+* Charles Wallace, chaswallace3, [chaswallace3](https://github.com/chaswallace3/)
+* Fletcher Watts, augustus1994, [augustus1994](https://github.com/augustus1994/)
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
 * Jesse Yancy, jpy234, [jesseyancy23](https://github.com/jesseyancy23)
 * Seungwon Yoon, ysw0927, [buttonsense](https://github.com/buttonsense/)
