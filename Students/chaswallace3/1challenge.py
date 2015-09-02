@@ -1,4 +1,4 @@
-__author__ = ""
+__author__ = "Charles"
 __NetID__ = ""
 __GitHubID__ = ""
 __challenge__ = "1"
