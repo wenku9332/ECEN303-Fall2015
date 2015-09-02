@@ -8,6 +8,7 @@
 * Allison Badgett, allisonbadgett, [allisonbadgett](https://github.com/allisonbadgett/)
 * Liliana Balboa, lbalboa100
 * Bailey Barksdale, bailey13, [bkb0917](https://github.com/bkb0917/)
+* Logan Barnard, lgnbarnard, [lgnbarnard](https://github.com/lgnbarnard/)
 * Alexander Barrett, abarrett93
 * Kaitlin Basham, klb3736, [klb3736](https://github.com/klb3736/)
 * Philip Bowie, bowiepj, [bowiepj](https://github.com/bowiepj/)
