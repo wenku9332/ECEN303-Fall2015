@@ -19,7 +19,7 @@
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Mirel Duka, iDuka, [iDuka](https://github.com//iDuka)
 * Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
-* Alexander Garcia, alexgarcia2013
+* Alexander Garcia, alexgarcia2013, [alexgarcia2013](https://github.com/alexgarcia2013)
 * Gissel Gardea, gardegi059, [ggardea66](https://github.com/ggardea66/)
 * Matthew Grogan, grogan2122, [mdgrogan](https://github.com/mdgrogan/)
 * Steven Hammond, slhammond, [IneedHelp](https://github.com/IneedHelp)
