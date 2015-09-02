@@ -16,7 +16,7 @@ do
     echo "${dir} is not a directgory"
     printf "\n"
   else
-    [[ -d "${dir}" ]] && cd "${dir}" && if [[ -f ${file} ]];
+    [[ -d "${dir}" ]] && cd "${dir}" && if ! [[ -f ${file} ]];
       then
         pwd
         cp ~/"${templatefolder}${file}" .
