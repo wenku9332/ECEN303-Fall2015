@@ -15,7 +15,7 @@
 * Jui Yen Chua, olochua, [olochua](https://github.com/olochua)
 * Phillip Cryer, cryerp, [cryerp](https://github.com/cryerp)
 * Stephanie Demco, steph1995, [stephaniedemco](https://github.com/stephaniedemco)
-* Jose Dominguez, jpdominguez94
+* Jose Dominguez, jpdominguez94, [jpdominguez94](https://github.com/jpdominguez94)
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Mirel Duka, iDuka, [iDuka](https://github.com//iDuka)
 * Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
@@ -31,7 +31,7 @@
 * Madeline Kinnaird, mrk13
 * Benjamin Ledesma, ledesma.benjamin
 * Jordan Lewallen, jlewallen18, [jlewallen18](https://github.com/jlewallen18/)
-* Justin Lewis, justin94lewis
+* Justin Lewis, justin94lewis, [LewisWithoutClark](https://github.com/LewisWithoutClark)
 * Chu Liang, cml1012, [cml1012](https://github.com/cml1012/)
 * Trevor Malota, trevormalota
 * Jonathan Moore, spirituallyinsane
