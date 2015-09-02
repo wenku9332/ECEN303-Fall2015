@@ -25,7 +25,7 @@
 * Matthew Grogan, grogan2122, [mdgrogan](https://github.com/mdgrogan/)
 * Steven Hammond, slhammond, [IneedHelp](https://github.com/IneedHelp)
 * Brandon Haskovec, bkh575, [bkh575](https://github.com/bkh575/)
-* Derek Heidtke, derek.heidtke, [derekheidtke](https://gihub.com/derekheidtke/) 
+* Derek Heidtke, derek.heidtke, [derekheidtke](https://github.com/derekheidtke/) 
 * Tyler Henderson, tyler.henderson07, [thenderson37](https://github.com/thenderson37)
 * Caleb Holley, calebiam, [calebiam](https://github.com/calebiam/)
 * Benjamin Johnston, benj626, [benj626](https://github.com/benj626/)
