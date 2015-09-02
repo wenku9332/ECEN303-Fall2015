@@ -33,7 +33,7 @@
 * Jordan Lewallen, jlewallen18, [jlewallen18](https://github.com/jlewallen18/)
 * Justin Lewis, justin94lewis, [LewisWithoutClark](https://github.com/LewisWithoutClark)
 * Chu Liang, cml1012, [cml1012](https://github.com/cml1012/)
-* Trevor Malota, trevormalota
+* Trevor Malota, TrevorMalota, [trevmalota](https://github.com/trevmalota/)
 * Jonathan Moore, spirituallyinsane
 * Shannon Morrissey, shannon.morrissey, [shmorrissey](https://github.com/shmorrissey)
 * Bijan Nekovei, bnn292
