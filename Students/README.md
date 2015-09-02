@@ -40,11 +40,11 @@
 * Katy Nix, katy.nix, [KANix94](https://github.com/KANix94)
 * Eric Niyigaba, ericniyigaba,[ericniyigaba](https://github.com/ericniyigaba)
 * Nirmal Patel, nirm13ff05, [nirm13ff05](https://github.com/nirm13ff05)
-* Alejandro Penaloza Rodriguez, alex23
+* Alejandro Penaloza Rodriguez, alex23, [alex23tamu], (https://github.com/alex23tamu)
 * Colbie Prestwood, cprestwood2012, [cprestwood2012](https://github.com/cprestwood2012)
 * Jacoby Prestwood, jacobye17, [jacobye17](https://github.com/jacobye17)
 * Christian Rodriguez Fuenmayor, christico
-* Jesus Romo Diaz De Leon, jfernandoromoddl, [FernandoRomo] (https://github.com/FernandoRomo)
+* Jesus Romo Diaz De Leon, jfernandoromoddl, [FernandoRomo](https://github.com/FernandoRomo)
 * Emily Roth, e-roth123, [e-roth123](https://github.com/e-roth123/)
 * Joshua Ruff, joshruff, [joshruff](https://github.com/joshruff/)
 * Stephen Sattler, stephensattler
