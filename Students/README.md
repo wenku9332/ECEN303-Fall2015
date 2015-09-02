@@ -14,7 +14,7 @@
 * Kevin Bradshaw, kevintbradshaw, [kevintbradshaw](https://github.com/kevintbradshaw/)
 * Jui Yen Chua, olochua
 * Phillip Cryer, cryerp, [cryerp](https://github.com/cryerp)
-* Stephanie Demco, steph1995
+* Stephanie Demco, steph1995, [stephaniedemco](https://github.com/stephaniedemco)
 * Jose Dominguez, jpdominguez94
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
