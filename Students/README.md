@@ -15,7 +15,7 @@
 * Jui Yen Chua, olochua, [olochua](https://github.com/olochua)
 * Phillip Cryer, cryerp, [cryerp](https://github.com/cryerp)
 * Stephanie Demco, steph1995, [stephaniedemco](https://github.com/stephaniedemco)
-* Jose Dominguez, jpdominguez94
+* Jose Dominguez, jpdominguez94, [jpdominguez94](https://github.com/jpdominguez94)
 * Andrew Douglass, adoulgas, [ajdouglass](https://github.com/ajdouglass/)
 * Morgan Frakes, mgfrakes13, [mgfrakes](https://github.com/mgfrakes/)
 * Alexander Garcia, alexgarcia2013
