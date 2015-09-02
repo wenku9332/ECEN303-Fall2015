@@ -9,11 +9,14 @@ Note that it is necessary to `import random` to use this module.
 import random
 
 Cardinality = 2
-NumberTrials = 100
+NumberTrials = 1000
 
 TrialSequence = []
 for TrialIndex in range(0, NumberTrials):
     TrialSequence.append(random.randrange(Cardinality))
+    #
+    # EDIT
+    #
 
 EmpiricalDistribution = []
 for OutcomeIndex in range(0, Cardinality):
@@ -25,7 +28,7 @@ print EmpiricalDistribution
 
 * __Create__: Pure Python Project at location `Students/GitHubID/` within local Git repository.
 * __Run__: Code above.
-* __Modify__: Code to produce Bernoulli random variables, each with parameter `p`.
+* __Modify__: Code to produce biased binary coin flip that returns one with probability 0.75 and zero otherwise.
 * __Save__: File `3task.py`.
 * __Commit__: File to master repository using PyCharm, Git and GitHub.
 
