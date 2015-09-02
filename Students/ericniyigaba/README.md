@@ -1,5 +1,5 @@
 # Identity
 
-* Name: 
-* GitHubID: 
-* NetID: 
+* Name: Eric Niyigaba
+* GitHubID: ericniyigaba
+* NetID: ericniyigaba
