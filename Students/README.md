@@ -46,7 +46,7 @@
 * Christian Rodriguez Fuenmayor, christico
 * Jesus Romo Diaz De Leon, jfernandoromoddl, [FernandoRomo](https://github.com/FernandoRomo)
 * Emily Roth, e-roth123, [e-roth123](https://github.com/e-roth123/)
-* Josh Ruff, joshruff, [joshruff](https://github.com/joshruff/)
+* Joshua Ruff, joshruff, [joshruff](https://github.com/joshruff/)
 * Stephen Sattler, stephensattler
 * Rodney Siders, rodney6359
 * Zachary Smadi, smadi94, [smadi94](https://github.com/smadi94/)
