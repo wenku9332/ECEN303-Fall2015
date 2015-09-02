@@ -53,7 +53,7 @@
 * Michael Snowden, mwsnowden56, [mwsnowden56](https://github.com/mwsnowden56)
 * Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
 * Weston Torti, tort115, [westort](https://github.com/westort/)
-* Clarissa Tovias, toviasc
+* Clarissa Tovias, toviasc, [toviasc](https://github.com/toviasc/)
 * Michael Walker, mgwalker95
 * Charles Wallace, chaswallace3, [chaswallace3](https://github.com/chaswallace3/)
 * Fletcher Watts, augustus1994, [augustus1994](https://github.com/augustus1994/)
