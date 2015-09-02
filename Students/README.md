@@ -38,7 +38,7 @@
 * Bijan Nekovei, bnn292
 * Katy Nix, katy.nix
 * Eric Niyigaba, ericniyigaba
-* Nirmal Patel, nirm13ff05
+* Nirmal Patel, nirm13ff05, [nirm13ff05](https://github.com/nirm13ff05)
 * Alejandro Penaloza Rodriguez, alex23
 * Colbie Prestwood, cprestwood2012, [cprestwood2012](https://github.com/cprestwood2012)
 * Jacoby Prestwood, jacobye17, [jacobye17](https://github.com/jacobye17)
