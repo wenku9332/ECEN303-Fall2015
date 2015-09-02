@@ -12,7 +12,7 @@
 * Kaitlin Basham, klb3736, [klb3736](https://github.com/klb3736/)
 * Philip Bowie, bowiepj, [bowiepj](https://github.com/bowiepj/)
 * Kevin Bradshaw, kevintbradshaw, [kevintbradshaw](https://github.com/kevintbradshaw/)
-* Jui Yen Chua, olochua
+* Jui Yen Chua, olochua, [olochua](https://github.com/olochua)
 * Phillip Cryer, cryerp, [cryerp](https://github.com/cryerp)
 * Stephanie Demco, steph1995, [stephaniedemco](https://github.com/stephaniedemco)
 * Jose Dominguez, jpdominguez94
