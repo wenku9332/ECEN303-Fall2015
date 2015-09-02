@@ -1,6 +1,7 @@
 
 # RANDOM SIGNALS AND SYSTEMS
 
+* [Course Notes](./Miscellaneous/UndergraduateProbabilityI.pdf)
 
 ## Description
 
