@@ -1,5 +1,5 @@
 # Identity
 
-Name: Brandon Haskovec
-GitHubID: bkh575
-NetID: bkh575
+*Name: Brandon Haskovec
+*GitHubID: bkh575
+*NetID: bkh575
