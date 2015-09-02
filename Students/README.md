@@ -49,7 +49,7 @@
 * Stephen Sattler, stephensattler
 * Rodney Siders, rodney6359
 * Zachary Smadi, smadi94, [smadi94](https://github.com/smadi94/)
-* Michael Snowden, mwsnowden56
+* Michael Snowden, mwsnowden56, [mwsnowden56](https://github.com/mwsnowden56)
 * Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
 * Weston Torti, tort115, [westort](https://github.com/westort/)
 * Clarissa Tovias, toviasc
