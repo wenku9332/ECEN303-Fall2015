@@ -34,7 +34,7 @@
 * Chu Liang, cml1012, [cml1012](https://github.com/cml1012/)
 * Trevor Malota, trevormalota
 * Jonathan Moore, spirituallyinsane
-* Shannon Morrissey, shannon.morrissey
+* Shannon Morrissey, shannon.morrissey, [shmorrissey](https://github.com/shmorrissey)
 * Bijan Nekovei, bnn292
 * Katy Nix, katy.nix
 * Eric Niyigaba, ericniyigaba
